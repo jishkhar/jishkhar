@@ -4,10 +4,10 @@ a freelance full-stack developer passionate about building scalable systems, cra
 
 #### what i'm into ~
 
-- 🌱 **full-stack development** — react, next.js, node, typescript
-- 🌱 **ai & ml** — building intelligent, practical tools
-- 🌱 scalable systems — software that grows with users
-- 🌱 developer tools — making developers more productive
-- 🌱 open source — learning in public and giving back
+- 🌱 **full-stack development** - react, next.js, node, typescript
+- 🌱 **ai & ml** - building intelligent, practical tools
+- 🌱 **scalable systems** - software that grows with users
+- 🌱 **developer tools** - making developers more productive
+- 🌱 **open source** - learning in public and giving back
 
 my website - [website](https://www.jiskhar.me/)
