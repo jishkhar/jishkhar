@@ -1,6 +1,6 @@
 hi, i'm jishnu - a full-stack developer who loves to code casually every day.
 
-a freelance full-stack developer passionate about building scalable systems, crafting intuitive web experiences, and delivering software that's reliable and easy to maintain.
+i'am passionate about building scalable systems, crafting intuitive web experiences, and delivering software that's reliable and easy to maintain.
 
 #### what i'm into ~
 
